@@ -4,8 +4,9 @@
 
 ## Description
 
-Taking the online course about node js I cloned the sample todo project to create a expense tracker. Doing this project helped me apply my learnings from the said online course.  
-This repository contains a straightforward full-stack todo application built with Node.js, Express.js, EJS template engine, and MongoDB. It serves as an educational resource, particularly for teaching on Udemy, offering a practical example of building a CRUD application with a backend API and a frontend interface.
+While taking an online course on Node.js, I cloned the sample ToDo project and extended it into an Expense Tracker application. This hands-on project helped me apply what I learned from the course, particularly in building full-stack applications with Node.js and Express.
+
+The repository originally contains a simple full-stack ToDo app built using Node.js, Express.js, the EJS template engine, and MongoDB. It serves as an educational resource—primarily for teaching on Udemy—and provides a practical example of creating a CRUD application with a backend API and a frontend interface. By modifying and expanding the project into an Expense Tracker, I gained deeper insight into routing, database operations, and server-side rendering.
 
 ## Table of Contents
 
@@ -19,7 +20,7 @@ This repository contains a straightforward full-stack todo application built wit
 Install MongoDb Database
 
 ```bash
-git clone https://github.com/jahidhiron/todo-app.git
+git clone https://github.com/FredMadrona/ExpenseTrackerNodeJS.git
 cd todo-app
 npm install
 ```
