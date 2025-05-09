@@ -19,6 +19,14 @@ The repository originally contains a simple full-stack ToDo app built using Node
 
 Install MongoDb Database
 
+Original Project done by Jahid Hiron
+```bash
+git clone https://github.com/jahidhiron/todo-app
+cd todo-app
+npm install
+```
+
+
 ```bash
 git clone https://github.com/FredMadrona/ExpenseTrackerNodeJS.git
 cd todo-app
